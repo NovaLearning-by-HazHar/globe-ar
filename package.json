@@ -1,7 +1,7 @@
 {
-  "name": "globe-ar",
+  "name": "nova-globe-ar",
   "version": "1.19.0",
-  "description": "UI component for Globe Data Visualization in AR",
+  "description": "NovaLearning AR Globe - Educational 3D Globe for NovaRanger Mobile App",
   "license": "MIT",
   "type": "module",
   "unpkg": "dist/globe-ar.min.js",
@@ -16,25 +16,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vasturiano/globe-ar.git"
+    "url": "git+https://github.com/NovaLearning-by-HazHar/globe-ar.git"
   },
-  "homepage": "https://github.com/vasturiano/globe-ar",
+  "homepage": "https://github.com/NovaLearning-by-HazHar/globe-ar",
   "keywords": [
+    "novalearning",
+    "novaranger",
+    "educational-ar",
     "augmented-reality",
     "globe",
     "ar.js",
     "aframe",
-    "geo",
-    "spherical",
-    "projection",
-    "orthographic"
+    "mobile-learning",
+    "south-africa",
+    "ubuntu-philosophy",
+    "cultural-education"
   ],
   "author": {
-    "name": "Vasco Asturiano",
-    "url": "https://github.com/vasturiano"
+    "name": "NovaLearning by HazHar",
+    "url": "https://github.com/NovaLearning-by-HazHar",
+    "original_author": "Vasco Asturiano"
   },
   "bugs": {
-    "url": "https://github.com/vasturiano/globe-ar/issues"
+    "url": "https://github.com/NovaLearning-by-HazHar/globe-ar/issues"
   },
   "scripts": {
     "build": "rimraf dist && rollup -c",
